@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/3DGraphicsPrototyping/.vs/3DGraphicsPrototyping/v15
+/3DGraphicsPrototyping/obj/Debug
+/3DGraphicsPrototyping/bin/Debug
